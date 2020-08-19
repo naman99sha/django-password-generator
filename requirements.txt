@@ -90,7 +90,6 @@ keyring==21.1.0
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.8
-llvmlite==0.31.0
 menuinst==1.4.16
 mistune==0.8.4
 mkl-fft==1.0.15
